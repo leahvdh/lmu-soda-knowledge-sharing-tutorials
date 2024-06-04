@@ -11,14 +11,14 @@ We share some [introductionary tutorials](./azure-quick-start/) that should help
 > [!TIP] 
 > The [introductionary tutorials](./azure-quick-start/) provide a great entry point to and overview of the content of this repository.
 
-### 2 Code Recipies
+### 2 Code Recipes
 
 The folder [code-recipies](./code-recipies/) contains simple recipies (Python/R/...?) you can try out.
 
 
 ### 3 Technological Literacy
 
-You want to work more efficient with your computer? The folder [technological-literacy](./technological-literacy) contains very brief and seemingly random notes about diverse technical topics. This is less related to our work and not the focus of the repository. We will link to these notes from other files within the repository.
+You want to work more efficiently with your computer? The folder [technological-literacy](./technological-literacy) contains very brief and seemingly random notes about diverse technical topics. This is less related to our work and not the focus of the repository. We will link to these notes from other files within the repository.
 
 ## Help us improve
 
